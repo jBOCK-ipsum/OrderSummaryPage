@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<!-- excuse the mass use of ids as opposed to classes -->
+<!-- excuse the mass use of ids as opposed to classes -->
+<!-- excuse the mass use of ids as opposed to classes -->
+
 <head>
     <link rel="stylesheet" href="css.css">
     <meta charset="UTF-8">
@@ -15,7 +19,7 @@
 <body>
     <div id="background">
         <div>
-            <img id="backgroundimg" src="pattern-background-desktop.svg" alt="background image - wave of blue">
+            <img id="backgroundimg" src="pattern-background-desktop.svg" alt="background image - wave of blue"> <!-- excuse the mass use of ids as opposed to classes -->
         </div>
     </div>
     <div>
